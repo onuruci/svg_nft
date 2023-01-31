@@ -11,8 +11,7 @@ const Introduction = () => {
         can mint them freely.
       </div>
       <div>
-        Then with the your NFT's you can breed new DoGGo's with different
-        colors.
+        Then using your NFT's you can breed new DoGGo's with secondary colors.
       </div>
       <div>
         Feel free to test the application and reach your feedback to me. If you
