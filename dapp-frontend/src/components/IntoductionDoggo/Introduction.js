@@ -23,7 +23,7 @@ const Introduction = () => {
         <div>
           <a
             target="_blank"
-            href="https://testnet.snowtrace.io/address/0xB19db005C446E59dE8726E06735C5e454956Cc89"
+            href="https://testnet.snowtrace.io/address/0xB19db005C446E59dE8726E06735C5e454956Cc89#code"
           >
             <div>0xB19db00...56Cc89</div>
           </a>
